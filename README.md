@@ -1,5 +1,6 @@
 # 🏡 Bengaluru House Price Prediction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanusree03/house_price_prediction/blob/main/house_price_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanusree03/House_Price_Prediction/blob/main/House_Price_Prediction.ipynb)
+
 
 
 A machine learning regression project that predicts housing prices in Bengaluru based on features like location, BHK, total square feet, and number of bathrooms. The goal is to provide a reliable model that estimates property prices using real-world data.
